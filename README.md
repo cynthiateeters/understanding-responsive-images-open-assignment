@@ -8,3 +8,5 @@ Source files for the Tuts+ open assignment: [Understanding Responsive Images: Op
 **Available on Tuts+ June 2015**
 
 [View the demo](http://tutsplus.github.io/understanding-responsive-images-open-assignment)
+
+[text=Image+Placeholder](https://via.placeholder.com/300x200.png?text=Image+Placeholder)
